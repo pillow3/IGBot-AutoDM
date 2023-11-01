@@ -1,5 +1,3 @@
-Sure, here's a README for your code in English:
-
 # Instagram Messaging Bot
 
 This Python script is designed to automate sending messages to Instagram accounts. It utilizes the Selenium library to interact with the Instagram website and send messages to a list of specified accounts. This README provides an overview of the code, its functionality, and how to use it.
